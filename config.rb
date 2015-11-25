@@ -28,7 +28,7 @@ configure :build do
 end
 
 activate :google_analytics do |ga|
-  ga.tracking_id = 'UA-51500963-1'
+  ga.tracking_id = 'UA-TODO-1'
 end
 
 helpers do
@@ -52,24 +52,21 @@ helpers do
     time.strftime("%B #{time.day.ordinalize}, %Y")
   end
 
-  def picks_partial(episode)
-    partial "picks", locals: { episode_picks: episode.data['picks'] }
-  end
-
   def feedburner_url
-    "http://feeds.feedburner.com/Turing-Incomplete"
+    # TODO: feedburner or other RSS
+    "/podcast.xml"
   end
 
   def github_url
-    "https://github.com/turing-incomplete/turing-incomplete"
+    "https://github.com/lgbtq/lgbtq-tech-podcast"
   end
 
   def itunes_url
-    "https://itunes.apple.com/us/podcast/turing-incomplete/id886675939"
+    "https://TODO"
   end
 
   def podcast_email
-    "podcast@turing.cool"
+    "podcast@lgbtq.fm"
   end
 
   def podcast_name
@@ -77,11 +74,7 @@ helpers do
   end
 
   def podcast_description
-    "A Podcast About Diversity in Tech"
-  end
-
-  def stickers_url
-    "https://www.stickermule.com/marketplace/4818-turing-incomplete"
+    "Tech discussion from the LGBTQ community"
   end
 
   def tags
@@ -96,12 +89,12 @@ helpers do
   end
 
   def twitter_url
-    "https://twitter.com/turingcool"
+    "https://twitter.com/lgbtqfm"
   end
 
   def url(path = "")
     path = path.gsub(/^\//, '')
 
-    "http://turing.cool/#{path}"
+    "http://lgbtq.fm/#{path}"
   end
 end
