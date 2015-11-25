@@ -73,7 +73,7 @@ helpers do
   end
 
   def podcast_name
-    "Turing-Incomplete"
+    "LGBTQ Tech Podcast"
   end
 
   def podcast_description

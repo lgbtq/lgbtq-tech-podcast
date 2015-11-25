@@ -1,0 +1,19 @@
+---
+episode: 0
+title: What Is this
+date: 2015-11-30
+tags: random
+mp3: http://episodes.ltbtq.fm/lgbtq-podcast-0.mp3
+explicit: true
+file_size: 33906530
+seconds: 2119
+---
+
+
+* [Olu Niyi-Awosusi is a front-end web developer in London.](http://www.opentagclosetag.com/)
+* [Olu v2.3 (@oluoluoxenfree)](https://twitter.com/oluoluoxenfree?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [Sarah Withee (@geekygirlsarah)](https://twitter.com/geekygirlsarah)
+* [jonathantaylor (@j0nathantaylor)](https://twitter.com/j0nathantaylor)
+* [Russell (@RussellHay)](https://twitter.com/russellhay)
+* [Russell Hay - code, art, make, move](http://russellhay.com/)
+* [Rusty Mutton (@mfeckie)](https://twitter.com/mfeckie)

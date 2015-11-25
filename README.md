@@ -1,6 +1,4 @@
-# Turing-Incomplete [![Build Status](https://travis-ci.org/turing-incomplete/turing-incomplete.svg?branch=master)](https://travis-ci.org/turing-incomplete/turing-incomplete)
-
-Source code for [turing.cool](http://turing.cool)
+Source code for [lgbtq.fm](http://lgbtq.fm)
 
 ## Developing Locally
 
@@ -31,6 +29,6 @@ The site should now be viewable at [http://localhost:4567](http://localhost:4567
 
 [Travis CI](https://travis-ci.org) tests every branch to ensure that the site can be built.
 
-If the branch is on this repo ([turing-incomplete/turing-incomplete](https://github.com/turing-incomplete/turing-incomplete)), each successful branch build will be deployed to [beta.turing.cool](http://beta.turing.cool).
+If the branch is on this repo ([[lgbtq/lgbtq-tech-podcast](https://github.com/lgbtq/lgbtq-tech-podcast)), each successful branch build will be deployed to [beta.lgbtq.fm](http://beta.lgbtq.fm).
 
-Merging any branch to master will deploy to [turing.cool](http://turing.cool).
+Merging any branch to master will deploy to [lgbtq.fm](http://lgbtq.fm).
