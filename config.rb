@@ -77,7 +77,7 @@ helpers do
   end
 
   def podcast_description
-    "A Podcast About Programming"
+    "A Podcast About Diversity in Tech"
   end
 
   def stickers_url
