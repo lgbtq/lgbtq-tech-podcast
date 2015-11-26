@@ -1,6 +1,6 @@
 ---
 episode: 0
-title: What Is this
+title: What Is this?
 date: 2015-11-30
 tags: random
 mp3: http://episodes.ltbtq.fm/lgbtq-podcast-0.mp3
@@ -9,6 +9,9 @@ file_size: 33906530
 seconds: 2119
 ---
 
+Getting really meta in episode zero, we discuss what our format, process and name should be.
+
+### Panel:
 
 * [Olu Niyi-Awosusi is a front-end web developer in London.](http://www.opentagclosetag.com/)
 * [Olu v2.3 (@oluoluoxenfree)](https://twitter.com/oluoluoxenfree?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
@@ -17,3 +20,11 @@ seconds: 2119
 * [Russell (@RussellHay)](https://twitter.com/russellhay)
 * [Russell Hay - code, art, make, move](http://russellhay.com/)
 * [Rusty Mutton (@mfeckie)](https://twitter.com/mfeckie)
+
+
+### Links:
+
+* [LGBTQ in Technology - LGBTQ in Technology](http://lgbtq.technology/)
+* [Turing-Incomplete](http://turing.cool/)
+* [Trump on JavaScript (@realDonaldJS)](https://twitter.com/realdonaldjs)
+* [Swish Embassy](http://www.swishembassy.com/)
