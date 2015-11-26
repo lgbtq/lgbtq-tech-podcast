@@ -1,3 +1,6 @@
+
+# LGBTQ.fm [![Build Status](https://travis-ci.org/lgbtq/lgbtq-tech-podcast.svg?branch=master)](https://travis-ci.org/lgbtq/lgbtq-tech-podcast)
+
 Source code for [lgbtq.fm](http://lgbtq.fm)
 
 ## Developing Locally
