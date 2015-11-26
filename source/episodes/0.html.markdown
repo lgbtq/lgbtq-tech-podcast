@@ -5,8 +5,9 @@ date: 2015-11-30
 tags: random
 mp3: http://episodes.ltbtq.fm/lgbtq-podcast-0.mp3
 explicit: true
-file_size: 33906530
-seconds: 2119
+file_size: 34964891
+seconds: 2185
+
 ---
 
 Getting really meta in episode zero, we discuss what our format, process and name should be.
