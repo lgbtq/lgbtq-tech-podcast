@@ -1,16 +1,17 @@
 @import compass/css3/transform
 @import fittext
 @import normalize
-@import url(http://fonts.googleapis.com/css?family=Amatic+SC)
+@import url(http://fonts.googleapis.com/css?family=PT+Sans)
 
-$body-font-family: "Lucida Grande", Tahoma, Verdana, "Helvetica Neue", Helvetica, sans-serif
-$header-font-family: "Amatic SC", "Futura-CondensedMedium", "DINCondensed-Bold" , sans-serif
+$body-font-family: "Helvetica Neue", Helvetica, sans-serif
+$header-font-family: "PT Sans", "Futura-CondensedMedium", "DINCondensed-Bold" , sans-serif
 $header-font-weight: lighter
 
 $black: #000
 $blue: #1aa1db
 $dark-gray: #333
 $light-gray: #999
+$light-pink: #FFADFF
 $green: #23dd33
 $light-yellow: #fefb82
 $orange: #fd743b
@@ -30,7 +31,7 @@ $mp3: $green
 $tag: $red
 $text-background: $white
 $text: $black
-$wrapper-background: $light-yellow
+$wrapper-background: $light-pink
 
 body
   background: $body-background
@@ -52,14 +53,14 @@ h1, h2
   width: 100%
 
 h1
-  @include fittext($min-media: 320px, $max-media: 960px, $min-font-size: 2.5em, $max-font-size: 7.5em, $media-increment: 12, $font-increment: 0.1)
+  @include fittext($min-media: 320px, $max-media: 960px, $min-font-size: 1.5em, $max-font-size: 4.5em, $media-increment: 12, $font-increment: 0.1)
   text-transform: uppercase
 
   a
     color: $text
 
 h2
-  @include fittext($min-media: 320px, $max-media: 960px, $min-font-size: 1.25em, $max-font-size: 3.75em, $media-increment: 24, $font-increment: 0.1)
+  @include fittext($min-media: 320px, $max-media: 960px, $min-font-size: 1.25em, $max-font-size: 2.25em, $media-increment: 24, $font-increment: 0.1)
 
 a
   color: $link
@@ -83,54 +84,6 @@ blockquote
   p
     display: inline
     padding: 0 0 0 0.5em
-
-.hosts
-  font-family: $header-font-family
-  font-size: 1em
-  font-weight: $header-font-weight
-  list-style-type: none
-  padding: 0
-  text-align: center
-
-  li
-    display: inline
-
-    a
-      border: 3px solid $border
-      color: $white
-      display: inline-block
-      padding: 0.25em
-      margin: 0.25em
-      width: 3em
-
-.martin
-  @include rotate(-1deg)
-  background: $orange
-
-.sarah
-  @include rotate(2deg)
-  background: $sarah
-
-.olu
-  @include rotate(-2deg)
-  background: $red
-
-.len
-  @include rotate(1deg)
-  background: $green
-
-.russell
-  @include rotate(-4deg)
-  background: $russell
-
-.jonathan
-  @include rotate(-5deg)
-  background: $jonathan
-
-.martin
-  @include rotate(4deg)
-  background: $martin
-
 
 .links
   display: block
