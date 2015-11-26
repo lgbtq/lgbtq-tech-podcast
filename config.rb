@@ -74,7 +74,7 @@ helpers do
   end
 
   def podcast_description
-    "Tech discussion from the LGBTQ community"
+    "Tech discussions from the LGBTQ community"
   end
 
   def tags
