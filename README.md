@@ -35,3 +35,7 @@ The site should now be viewable at [http://localhost:4567](http://localhost:4567
 If the branch is on this repo ([[lgbtq/lgbtq-tech-podcast](https://github.com/lgbtq/lgbtq-tech-podcast)), each successful branch build will be deployed to [beta.lgbtq.fm](http://beta.lgbtq.fm).
 
 Merging any branch to master will deploy to [lgbtq.fm](http://lgbtq.fm).
+
+## Creating a new episode file
+
+If there is a valid `.config.yml` in the project's root directory (see `.config.yml.example`) you can run `rake metadata` to create a new episode file in `./sources/episodes` with all the metadata from the mp3.
