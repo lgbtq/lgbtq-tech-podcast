@@ -3,7 +3,7 @@ episode: 1
 title: Origin Stories
 date: 2015-12-03
 tags: random
-mp3: http://episodes.ltbtq.fm/lgbtq-podcast-1.mp3
+mp3: http://episodes.lgbtq.fm/lgbtq-podcast-1.mp3
 explicit: true
 file_size: 23949201
 seconds: 2394
