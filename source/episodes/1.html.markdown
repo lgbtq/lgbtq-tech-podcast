@@ -5,8 +5,8 @@ date: 2015-12-03
 tags: random
 mp3: http://episodes.ltbtq.fm/lgbtq-podcast-1.mp3
 explicit: true
-file_size: 26694298
-seconds: 2668
+file_size: 23949201
+seconds: 2394
 ---
 
 Discussing how we entered the industry, what motivates us, and musing about
