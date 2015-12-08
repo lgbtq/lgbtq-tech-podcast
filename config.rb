@@ -54,7 +54,7 @@ helpers do
 
   def feedburner_url
     # TODO: feedburner or other RSS
-    "/podcast.xml"
+    "http://feeds.feedburner.com/LgbtqTechPodcast/"
   end
 
   def github_url
@@ -62,7 +62,7 @@ helpers do
   end
 
   def itunes_url
-    "https://TODO"
+    "https://itunes.apple.com/us/podcast/lgbtq-tech-podcast/id1065039466"
   end
 
   def podcast_email
