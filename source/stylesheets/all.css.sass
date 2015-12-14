@@ -7,16 +7,19 @@ $body-font-family: "Helvetica Neue", Helvetica, sans-serif
 $header-font-family: "PT Sans", "Futura-CondensedMedium", "DINCondensed-Bold" , sans-serif
 $header-font-weight: lighter
 
-$black: #000
+$black: #1C1C1C
 $blue: #1aa1db
 $dark-gray: #333
 $light-gray: #999
 $light-pink: #FFADFF
 $green: #23dd33
 $light-yellow: #fefb82
+$yellow: #F6C900
 $orange: #fd743b
-$red: #fc4620
-$white: #fff
+$red: #E20000
+$purple: #830072
+$blue: #1B5AA7
+$white: #FFF
 $russell: #FF9029
 $martin: #9342B1
 $jonathan: #DD6FF5
@@ -24,14 +27,14 @@ $sarah: #1A48DB
 
 
 $body-background: $white
-$border: $black
+$border: $light-gray
 $explicit: $light-gray
 $link: $blue
 $mp3: $green
 $tag: $red
 $text-background: $white
-$text: $black
-$wrapper-background: $light-pink
+$text: $white
+$wrapper-background: $black
 
 body
   background: $body-background
@@ -48,6 +51,7 @@ body
 h1, h2
   font-family: $header-font-family
   font-weight: $header-font-weight
+  color: $white
   margin: 0
   text-align: center
   width: 100%
@@ -97,10 +101,10 @@ blockquote
     display: inline-block
 
   a
-    background: $black
-    color: $white
+    background: $purple
+    color: $black
     display: inline-block
-    padding: 0.5em
+    padding: 0.75em
     margin: 0.25em
 
 .row
