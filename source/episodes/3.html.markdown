@@ -1,0 +1,31 @@
+---
+episode: 3
+title: Learned in 2015 / Goals for 2016
+date: 2016-02-01
+tags: review, goals
+mp3: http://episodes.lgbtq.fm/lgbtq-podcast-3.mp3
+explicit: true
+file_size: 42414080
+seconds: 3534
+---
+
+Discussing the yearly transition from one year to the next, transitioning to new careers, and looking forward to 2016 and beyond.
+
+*we lost one of the tracks, and had to try to recover it from audio bleed on another track, so the audio quality suffered.*
+
+### Panel
+
+* [Ada Chiu](https://twitter.com/adachiu_)
+* [Emma Humphries](http://emmah.net)
+* [Russell Hay](https://russellhay.com)
+* [Rusty Mutton](https://mfeckie.github.io)
+
+### Links
+
+* Intro and Outro music is [Paint the Sky by Dysfunctional_AL](http://ccmixter.org/files/destinazione_altrove/49997) CC-BY
+* [Adventures in Renaming](http://adventuresinrenaming.net/)
+* [Eulogy for an Aerialist](https://russellhay.com/life/2014-01-20-euology-for-an-aerialist/)
+* [Nick Cameron](http://www.ncameron.org/blog/)
+* [Rewriting Ruby C extension in Rust](https://www.youtube.com/watch?v=2BdJeSC4FFI)
+* [Toward Humane Tech](https://medium.com/@anildash/toward-humane-tech-23a20405681a#.ohfvbimfu)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
