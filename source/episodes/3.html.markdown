@@ -1,7 +1,7 @@
 ---
 episode: 3
 title: Learned in 2015 / Goals for 2016
-date: 2016-02-01
+date: 2016-01-19
 tags: review, goals
 mp3: http://episodes.lgbtq.fm/lgbtq-podcast-3.mp3
 explicit: true
