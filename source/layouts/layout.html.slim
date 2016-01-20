@@ -22,11 +22,11 @@ html
 
       .row
         ul.links
-          li = link_to "iTunes", itunes_url, target: '_blank'
-          li = link_to "XML", feedburner_url, target: '_blank'
-          li = link_to "Twitter", twitter_url, target: '_blank'
-          li = link_to "GitHub", github_url, target: '_blank'
-          li = link_to "Panelist Guide", "/guide.html"
+          li = link_to "iTunes", itunes_url, class: "yellow", target: '_blank'
+          li = link_to "Twitter", twitter_url, class: "red", target: '_blank'
+          li = link_to "GitHub", github_url, class: "purple", target: '_blank'
+          li = link_to "Panelist Guide", "/guide.html", class: "blue"
+          li = link_to "XML", feedburner_url, class: "green", target: '_blank'
 
       #content
         = yield
