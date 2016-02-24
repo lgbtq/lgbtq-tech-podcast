@@ -1,0 +1,24 @@
+---
+episode: 4
+title: Things that excite us in tech
+date: 2016-02-20
+mp3: TODO
+explicit: false
+file_size: 123
+seconds: 123
+---
+
+Discussing the things that excite us in tech at the moment.
+
+### Panel
+
+* [Ben Klebe (@ben_klebe)](https://twitter.com/ben_klebe)
+* [Emma Humphries](http://emmah.net)
+* [Len Smith (@ignu)](https://twitter.com/ignu)
+* [Martin Feckie (@mfeckie)](https://twitter.com/mfeckie)
+* [Sarah Withee (@geekygirlsarah)](https://twitter.com/geekygirlsarah)
+
+### Links
+
+* [Paint the Sky by Dysfunctional_AL](http://ccmixter.org/files/destinazione_altrove/49997) CC-BY
+* [Racist algorithms](http://boingboing.net/2015/12/02/racist-algorithms-how-big-dat.html)
