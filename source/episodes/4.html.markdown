@@ -1,0 +1,25 @@
+---
+episode: 4
+title: Things that excite us in tech
+date: 2016-02-29
+tags: random
+mp3: http://episodes.lgbtq.fm/lgbtq-podcast-4.mp3
+explicit: true
+file_size: 70298113
+seconds: 2929
+---
+
+### Panel
+
+* [Ben Klebe](https://twitter.com/ben_klebe/)
+* [Emma Humphries](http://emmah.net)
+* [Len Smith](https://twitter.com/ignu)
+* [Martin Feckie (@mfeckie)](https://twitter.com/mfeckie)
+* [Sarah Withee (@geekygirlsarah)](https://twitter.com/geekygirlsarah)
+
+### Links
+
+* [Racist algorithms](http://boingboing.net/2015/12/02/racist-algorithms-how-big-dat.html)
+* [Elixir](http://elixir-lang.org/)
+* [Elm](http://elm-lang.org/)
+* [Paint the Sky by Dysfunctional_AL](http://ccmixter.org/files/destinazione_altrove/49997) CC-BY
